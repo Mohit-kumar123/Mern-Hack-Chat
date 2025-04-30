@@ -1,5 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+ACCESSING: "https://mern-hack-chat.onrender.com"
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
